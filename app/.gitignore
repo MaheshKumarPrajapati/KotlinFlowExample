@@ -12,7 +12,7 @@ app/build/
 .idea/tasks.xml
 .idea/gradle.xml
 .idea/dictionaries
-.idea/
+.idea
 *.properties
 
 # General Files
@@ -26,4 +26,3 @@ Thumbs.db
 local.properties
 app/app.iml
 grepixutils/grepixutils.iml
-/.idea/
